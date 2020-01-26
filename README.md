@@ -1,7 +1,5 @@
 # sumandAverage
 sum and average using method in java
-
-
 import java.util.Scanner;
 
 public class Main {
